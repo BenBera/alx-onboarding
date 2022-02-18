@@ -1,0 +1,11 @@
+START
+Set n, sum = 0
+Read n 
+if n>=0
+for (i = 1; i <= n; ++i) {
+        sum += i;
+    }
+    Display sum
+else 
+    Display sum
+END    
