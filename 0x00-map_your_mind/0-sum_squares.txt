@@ -1,0 +1,8 @@
+START
+Read count
+Set A and Sum 0
+IF (A<=count):
+	read value
+	Square = value x value
+	Sum = Sum + square
+END
