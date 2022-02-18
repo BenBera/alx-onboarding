@@ -1,0 +1,5 @@
+START
+Read x,y,z
+S=0 assume unsorted If	x<=y then
+If	y<=z then S=1
+End if End if Display S STOP
